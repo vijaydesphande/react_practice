@@ -1,0 +1,26 @@
+img{
+    margin: auto;
+    padding-right: 600px;
+    height: 50px;
+    width: 50px;
+}
+li{
+    margin-left: 600px;
+    background-color: red;
+    color: white;
+    margin-left: 50px;
+    padding: 10px;
+    padding-right: 20px;
+    border: 2px solid wheat;
+}
+#nav{
+    background-color: rgba(27, 24, 24, 0.726);
+display: flex;
+background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/f669a8f4-de1e-49d7-bb56-c9bd1f4a9069/d4f217b2-4001-4df5-bef8-0b026ec133fe/IN-en-20221031-popsignuptwoweeks-perspective_alpha_website_medium.jpg );
+background-repeat: no-repeat;
+background-size: cover;}
+select{
+ margin-top: 20px;
+ margin-bottom: 20px;
+    padding: auto;
+}
